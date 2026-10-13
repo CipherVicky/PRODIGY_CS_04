@@ -1,4 +1,4 @@
-# Prodigy Infotech Cybersecurity Internship — Task 04
+# Prodigy Infotech CS Internship — Task 04
 ## Simple Keylogger (Consent-Based Demonstration)
 
 ### Objective
